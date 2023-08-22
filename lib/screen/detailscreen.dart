@@ -28,7 +28,7 @@ class _detailscreenState extends State<detailscreen> {
               child: Column(
                 children: [
                   CircleAvatar(
-                    radius: 40,
+                    radius: 35,
                     backgroundColor: Colors.brown.shade300,
                     foregroundColor: Colors.white,
                     child: Text(
